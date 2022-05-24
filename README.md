@@ -1,0 +1,2 @@
+# javaScriptBase
+Temel JavaScript 
